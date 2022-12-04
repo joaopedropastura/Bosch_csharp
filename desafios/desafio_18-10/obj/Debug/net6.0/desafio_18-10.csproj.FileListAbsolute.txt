@@ -1,0 +1,15 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\desafio_18-10.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\desafio_18-10.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\desafio_18-10.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\desafio_18-10.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\desafio_18-10.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\bin\Debug\net6.0\desafio_18-10.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\bin\Debug\net6.0\desafio_18-10.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\bin\Debug\net6.0\desafio_18-10.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\bin\Debug\net6.0\desafio_18-10.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\bin\Debug\net6.0\desafio_18-10.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\desafio_18-10.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\refint\desafio_18-10.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\desafio_18-10.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\desafio_18-10.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\desafio_18-10\obj\Debug\net6.0\ref\desafio_18-10.dll

@@ -1,0 +1,15 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\aula_06.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\aula_06.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\aula_06.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\aula_06.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\aula_06.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\bin\Debug\net6.0\aula_06.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\bin\Debug\net6.0\aula_06.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\bin\Debug\net6.0\aula_06.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\bin\Debug\net6.0\aula_06.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\bin\Debug\net6.0\aula_06.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\aula_06.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\refint\aula_06.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\aula_06.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\aula_06.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\aula_06\obj\Debug\net6.0\ref\aula_06.dll

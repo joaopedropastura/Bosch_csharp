@@ -1,0 +1,15 @@
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/bin/Debug/net6.0/q10-12
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/bin/Debug/net6.0/q10-12.deps.json
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/bin/Debug/net6.0/q10-12.runtimeconfig.json
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/bin/Debug/net6.0/q10-12.dll
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/bin/Debug/net6.0/q10-12.pdb
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/q10-12.csproj.AssemblyReference.cache
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/q10-12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/q10-12.AssemblyInfoInputs.cache
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/q10-12.AssemblyInfo.cs
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/q10-12.csproj.CoreCompileInputs.cache
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/q10-12.dll
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/refint/q10-12.dll
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/q10-12.pdb
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/q10-12.genruntimeconfig.cache
+/Users/jp/bosch/csharp_bosch/trevisSharpMasterDasGalaxias/Revisão/q10-12/obj/Debug/net6.0/ref/q10-12.dll

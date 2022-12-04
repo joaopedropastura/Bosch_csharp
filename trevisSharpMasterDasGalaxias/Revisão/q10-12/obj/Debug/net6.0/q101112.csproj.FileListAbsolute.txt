@@ -1,0 +1,15 @@
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\bin\Debug\net6.0\q101112.exe
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\bin\Debug\net6.0\q101112.deps.json
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\bin\Debug\net6.0\q101112.runtimeconfig.json
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\bin\Debug\net6.0\q101112.dll
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\bin\Debug\net6.0\q101112.pdb
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\q101112.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\q101112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\q101112.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\q101112.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\q101112.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\q101112.dll
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\refint\q101112.dll
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\q101112.pdb
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\q101112.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\CSharpBasicEntreAspas\Revisão\q10-12\obj\Debug\net6.0\ref\q101112.dll

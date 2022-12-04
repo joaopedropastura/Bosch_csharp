@@ -1,0 +1,15 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\bin\Debug\net6.0\q1.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\bin\Debug\net6.0\q1.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\bin\Debug\net6.0\q1.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\bin\Debug\net6.0\q1.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\bin\Debug\net6.0\q1.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\q1.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\q1.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\q1.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\q1.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\q1.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\q1.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\refint\q1.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\q1.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\q1.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Joao Pedro Soares\projects_c#\provaCSharpTrevis\ex01\q1\obj\Debug\net6.0\ref\q1.dll

@@ -1,0 +1,30 @@
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\bin\Debug\net6.0\q8.exe
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\bin\Debug\net6.0\q8.deps.json
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\bin\Debug\net6.0\q8.runtimeconfig.json
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\bin\Debug\net6.0\q8.dll
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\bin\Debug\net6.0\q8.pdb
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\q8.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\q8.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\q8.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\q8.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\q8.dll
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\refint\q8.dll
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\q8.pdb
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\q8.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8\obj\Debug\net6.0\ref\q8.dll
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\bin\Debug\net6.0\q8.exe
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\bin\Debug\net6.0\q8.deps.json
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\bin\Debug\net6.0\q8.runtimeconfig.json
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\bin\Debug\net6.0\q8.dll
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\bin\Debug\net6.0\q8.pdb
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\q8.csproj.AssemblyReference.cache
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\q8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\q8.AssemblyInfoInputs.cache
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\q8.AssemblyInfo.cs
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\q8.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\q8.dll
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\refint\q8.dll
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\q8.pdb
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\q8.genruntimeconfig.cache
+C:\Users\Usuário\Desktop\ProvaAssustadora\ProvaMedonha\q8 - Copia\obj\Debug\net6.0\ref\q8.dll
