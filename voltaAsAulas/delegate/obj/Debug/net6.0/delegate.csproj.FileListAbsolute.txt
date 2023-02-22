@@ -1,0 +1,15 @@
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\bin\Debug\net6.0\delegate.exe
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\bin\Debug\net6.0\delegate.deps.json
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\bin\Debug\net6.0\delegate.runtimeconfig.json
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\bin\Debug\net6.0\delegate.dll
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\bin\Debug\net6.0\delegate.pdb
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\delegate.csproj.AssemblyReference.cache
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\delegate.AssemblyInfoInputs.cache
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\delegate.AssemblyInfo.cs
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\delegate.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\delegate.dll
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\refint\delegate.dll
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\delegate.pdb
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\delegate.genruntimeconfig.cache
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\delegate\obj\Debug\net6.0\ref\delegate.dll

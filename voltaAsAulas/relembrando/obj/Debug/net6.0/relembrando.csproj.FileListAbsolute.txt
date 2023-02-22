@@ -1,0 +1,15 @@
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\relembrando.csproj.AssemblyReference.cache
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\relembrando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\relembrando.AssemblyInfoInputs.cache
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\relembrando.AssemblyInfo.cs
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\relembrando.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\bin\Debug\net6.0\relembrando.exe
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\bin\Debug\net6.0\relembrando.deps.json
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\bin\Debug\net6.0\relembrando.runtimeconfig.json
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\bin\Debug\net6.0\relembrando.dll
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\bin\Debug\net6.0\relembrando.pdb
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\relembrando.dll
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\refint\relembrando.dll
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\relembrando.pdb
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\relembrando.genruntimeconfig.cache
+C:\Users\Aluno\joao\repoCsharp\voltaAsAulas\relembrando\obj\Debug\net6.0\ref\relembrando.dll
